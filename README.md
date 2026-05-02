@@ -1,0 +1,2 @@
+# IOT-Based-Ultrasonic-Navigation-System-For-Visually-Impaired-Individuals
+Blindness is frequently used to describe severe visual impairment with residual vision. Those described as having only light perception have no more sight than the ability to  tell light from dark and the general direction of a light source. This IoT system has been developed using both the hardware and software implementations.
