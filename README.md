@@ -87,6 +87,7 @@ lead to make some type of damage to the stick which can be very bad as in perspe
 of blind people in the mid-way of traveling or walking.
 
 
->> 
+>> <img width="1494" height="874" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/7e4777e9-0ce6-4eb3-b489-7fd763efda00" />
+
 
 
