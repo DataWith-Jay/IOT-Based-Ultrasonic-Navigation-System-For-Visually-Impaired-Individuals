@@ -4,6 +4,11 @@ Blindness is frequently used to describe severe visual impairment with residual 
 
 
 
+<img width="3000" height="4000" alt="IMG_20210211_233329" src="https://github.com/user-attachments/assets/05a288df-98e6-4f57-a8dd-2111d4625edf" />
+
+
+
+
 
 >> CONTENTS AND INSIGHTS WHICH I HAVE MENTIONED IN MY PROJECT DOCUMENT
 
